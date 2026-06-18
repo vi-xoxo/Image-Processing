@@ -6,6 +6,8 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from ultralytics import YOLO
+import os
+os.environ["OPENCV_IO_ENABLE_OPENEXR"] = "0"
 
 # ─── Page Config ───────────────────────────────────────────────────────────────
 st.set_page_config(
