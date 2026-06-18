@@ -6,3 +6,4 @@ matplotlib
 ultralytics
 onnxruntime
 huggingface_hub
+opencv-python-headless
