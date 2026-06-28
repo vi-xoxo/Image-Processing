@@ -3,7 +3,6 @@ opencv-python-headless
 numpy
 Pillow
 matplotlib
-onnxruntime
 ultralytics
-torch
-torchvision
+onnxruntime
+huggingface_hub
